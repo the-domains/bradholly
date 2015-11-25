@@ -1,7 +1,7 @@
 name: BradHolly
 favicon: null
 layout_spectrum: 0.6038309999275953
-typography_spectrum: 0.4899950288236141
+typography_spectrum: 0.51505
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8128408347256482
+    - '#010101'
+    - '#5876ac'
+    - '#f4f0ed'
+    - '#819cc5'
+    - '#2c2b31'
+  brandStrength: 0.5
   lightness: 0.33327379496768117
   saturation: 0.0016589947044849396
   rhythmicContrast: 0.9271125860977918
