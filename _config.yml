@@ -2,12 +2,13 @@ name: BradHolly
 favicon: null
 layout_spectrum: 0.6038309999275953
 typography_spectrum: 0.51505
+title: Digital Marketing Expert
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-58125335-3
   facebook: null
   twitter: null
 opengraph:
